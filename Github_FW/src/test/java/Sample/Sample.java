@@ -8,8 +8,7 @@ public class Sample
 	public void TC1()
 	{
 		System.out.println("THIS IS TC1");
-		System.out.println("THIS IS TC1");
-		System.out.println("THIS IS TC1");
+		System.out.println("THIS IS TC2");
 
 
 	}
