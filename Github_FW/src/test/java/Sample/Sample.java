@@ -9,6 +9,8 @@ public class Sample
 	{
 		System.out.println("THIS IS TC1");
 		System.out.println("THIS IS TC1");
+		System.out.println("THIS IS TC1");
+
 
 	}
 
