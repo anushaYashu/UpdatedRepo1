@@ -1,0 +1,15 @@
+package Sample;
+
+import org.testng.annotations.Test;
+
+public class Sample 
+{
+	@Test
+	public void TC1()
+	{
+		System.out.println("THIS IS TC1");
+		System.out.println("THIS IS TC1");
+
+	}
+
+}
